@@ -1,0 +1,26 @@
+# Configuration
+config.js
+
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+
+# IDE
+.idea/
+.vscode/
+
+# Build
+dist/
+build/
+
+# Python virtual environment
+.venv/
+venv/
+
+# Large model files
+*.mlpackage
+*.dylib
+StableDiffusion/Resources/
+StableDiffusion/venv/ 
